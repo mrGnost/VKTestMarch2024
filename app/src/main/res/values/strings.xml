@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VKTestMarch2024</string>
+    <string name="default_product_title">Product Title</string>
+    <string name="default_product_description">Product description</string>
+</resources>
